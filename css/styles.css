@@ -3,6 +3,10 @@ body {
     margin: 0;
     font-family: 'Inter';
     font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
 .card {
@@ -11,7 +15,6 @@ body {
     height: 465px;
     padding: 20px;
     margin: auto;
-    margin-top: 50px;
     text-align: center;
     border-radius: 10px;
 }
